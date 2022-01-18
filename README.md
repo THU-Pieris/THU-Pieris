@@ -2,6 +2,6 @@
 
 ![Metrics](/github-metrics.svg)
 
-![anilist](/metrics.plugin.anilist.svg)
+![waifu](/metrics.plugin.anilist.characters.svg)
 
 ![pieris05](https://count.getloli.com/get/@pieris05?theme=moebooru)
