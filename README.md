@@ -1,4 +1,4 @@
-### Hi, this is Pieris. 👋
+### Hi, this is Pieris 👋
 
 ![Metrics](/github-metrics.svg)
 
