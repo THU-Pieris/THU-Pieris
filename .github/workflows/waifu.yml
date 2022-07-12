@@ -16,6 +16,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
-          plugin_anilist_sections: characters
+          plugin_anilist_sections: favorites,watching,characters
+          plugin_anilist_limit: 7
           plugin_anilist_limit_characters: 22
           plugin_anilist_user: Pieris
