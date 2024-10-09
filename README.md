@@ -2,6 +2,8 @@
 
 [<img align="right" width="45%" alt="🦑" src="https://raw.githubusercontent.com/THU-Pieris/THU-Pieris/main/metrics.plugin.anilist.characters.svg">](https://anilist.co/user/Pieris/)
 
+<br clear="both">
+
 [Bangumi](https://bgm.tv/user/gamut) progress
 
 <br clear="both">
